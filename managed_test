@@ -1,3 +1,3 @@
 library(civis)
 users_patch(<user id>,title ='test')
-users_patch(<user id>,department ='<test')
+users_patch(<user id>,department ='test')
